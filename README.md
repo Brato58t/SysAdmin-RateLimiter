@@ -22,5 +22,6 @@ El script valida peticiones basándose en:
 
 ¿Buscas la versión optimizada con Middleware? Visita este enlace:
 https://github.com/Brato58t/SysAdmin-RateLimiter-con-Middleware
+
 ---
 *Desarrollado para el Laboratorio de Arquitectura de Sistemas de Brato58t.*
