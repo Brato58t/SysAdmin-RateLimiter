@@ -20,6 +20,7 @@ El script valida peticiones basándose en:
 1. Asegúrate de tener Python instalado.
 2. Ejecuta: `python rate_limiter.py`
 
+___
 ¿Buscas la versión optimizada con Middleware? Visita este enlace:
 https://github.com/Brato58t/SysAdmin-RateLimiter-con-Middleware
 
